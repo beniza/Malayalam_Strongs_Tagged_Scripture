@@ -1,2 +1,2 @@
-# Malayalam_Strongs_Tagged_Scripture
-Malayalam Strong's+ Tagged Scripture Text
+# Malayalam Strongs Tagged Scripture
+This project aims on tagging the Malayalam Bible with the underlying Greek Text. At the moment I'm using a extended Strong's number system for the tagging. Currently the tagging is done manually in an Excel sheet (an extract is provided in this repository as an example). The script will parse the text and save it as a (USFM 3)[http://ubsicap.github.io/usfm/characters/index.html#w-w].
